@@ -95,14 +95,15 @@ strong {
   font-weight: 800;
   font-style: italic;
   font-size: 18px;
+
 }
-.about-me p {
-  width: 40%;
-  font-size: 14px;
+.about-me {
+  width: 85%;
+  line-height: 1.75em;
 }
 
 #gallery {
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 .title {
   text-align: center;
