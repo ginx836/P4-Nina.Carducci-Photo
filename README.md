@@ -1,19 +1,25 @@
 
 # Portfolio Nina Carducci
+## Optimisation du code, accessibilité et SEO
 
 Ce projet fait partie du cursus de la formation "Développeur Web" d'Openclassrooms. 
 
 Voici les objectifs du projet : 
 
-* Faire une optimisation globale du site, tant sur les performances que sur le SEO 
+* Analyser les performances d'un site web
+* Écrire un code HTML et CSS maintenable
+* Optimiser la taille et la vitesse d’un site web
+* Assurer l'accessibilité d'un site web
+* Optimiser le référencement d'un site web
+* Production d'un cahier de recette
 
-* Mettre en place le référencement local en utilisant Schema.org 
 
-* Ajouter les metas pour les réseaux sociaux 
 
-* Faire les modifications liées à l’accessibilité du site 
 
-* Produire un rapport d’optimisation présentant toutes vos actions et leur impact
+## Screenshots
+
+![Capture d'écran](assets/images/Nina-Desktop.webp)
+![Capture d'écran](assets/images/Nina-Desktop2.webp)
 
 
 ## Related
